@@ -1,0 +1,9 @@
+Origin: Cydia.vn
+Label: Cydia.vn
+Suite: stable
+Version: 1.0r282
+Codename: ios
+Architectures: darwin-arm iphoneos-arm
+Components: main
+Description: http://facebook.com/cydia.vn
+Support: http://cydia.saurik.com/support/*
